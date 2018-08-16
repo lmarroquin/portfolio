@@ -1,0 +1,95 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://lmarroquin.github.io/ELE3" resolutions="1x" timestamp="1534447423893">
+  <folder name="css">
+    <file name="site_global.css" crc="521203868"/>
+    <file name="index.css" crc="3930687772" ref="index"/>
+    <file name="nomq_index.css" crc="173483637" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="nombre-crop-u802.png" crc="3917853678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="voice-over-crop-u279.png" crc="4156326866" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motion-crop-u285.png" crc="3996242392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="podcast-crop-u291.png" crc="3790296220" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u567-4.png" crc="302387917" ref="index"/>
+    <file name="u941-4.png" crc="337741340" ref="index"/>
+    <file name="u1187-4.png" crc="69173084" ref="index"/>
+    <file name="nombre.png" crc="171784491" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="voice-over.png" crc="3975871555" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motion252x237.png" crc="3907887616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="podcast244x230.png" crc="447086607" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u567-42.png" crc="163697665" ref="index"/>
+    <file name="u941-42.png" crc="4131954367" ref="index"/>
+    <file name="u1187-42.png" crc="69789143" ref="index"/>
+    <file name="nombre-crop-u8022.png" crc="3932465251" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="voice-over-crop-u2792.png" crc="4293753706" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motion-crop-u2852.png" crc="493525826" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="podcast-crop-u2912.png" crc="155522556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u567-43.png" crc="163697665" ref="index"/>
+    <file name="u941-43.png" crc="4131954367" ref="index"/>
+    <file name="u1187-43.png" crc="69789143" ref="index"/>
+    <file name="nombre-crop-u8023.png" crc="230157987" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="voice-over-crop-u2793.png" crc="235558508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motion-crop-u2853.png" crc="4077732292" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="podcast-crop-u2913.png" crc="4016924149" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u567-44.png" crc="163442692" ref="index"/>
+    <file name="u941-44.png" crc="4171874267" ref="index"/>
+    <file name="u1187-44.png" crc="3857901467" ref="index"/>
+    <file name="nombre-crop-u8024.png" crc="71022663" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="voice-over-crop-u2794.png" crc="4066576388" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motion-crop-u2854.png" crc="4087547828" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="podcast-crop-u2914.png" crc="3786791607" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u567-45.png" crc="3944506278" ref="index"/>
+    <file name="u941-45.png" crc="4184901312" ref="index"/>
+    <file name="u1187-45.png" crc="29655998" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="104271283" seo="true" mt="1534447421579" redirect="true"/>
+</manifest>
