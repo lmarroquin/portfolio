@@ -1,69 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lmarroquin.github.io/ELE3/index.html</loc>
-    <lastmod>2018-08-16</lastmod>
+    <loc>http://www.zero.com/index.html</loc>
+    <lastmod>2018-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/nombre-crop-u802.png</image:loc>
+      <image:loc>http://www.zero.com/images/cv1-01.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/voice-over-crop-u279.png</image:loc>
+      <image:loc>http://www.zero.com/images/cv1-04.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/motion-crop-u285.png</image:loc>
+      <image:loc>http://www.zero.com/images/cv1-02.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/podcast-crop-u291.png</image:loc>
+      <image:loc>http://www.zero.com/images/cv1-03.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/nombre.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/voice-over.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/motion252x237.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/podcast244x230.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/nombre-crop-u8022.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/voice-over-crop-u2792.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/motion-crop-u2852.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/podcast-crop-u2912.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/nombre-crop-u8023.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/voice-over-crop-u2793.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/motion-crop-u2853.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/podcast-crop-u2913.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/nombre-crop-u8024.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/voice-over-crop-u2794.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/motion-crop-u2854.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://lmarroquin.github.io/ELE3/images/podcast-crop-u2914.png</image:loc>
+      <image:loc>http://www.zero.com/images/cv4-08.svg</image:loc>
     </image:image>
   </url>
 </urlset>
